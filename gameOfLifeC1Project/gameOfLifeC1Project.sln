@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gameOfLifeC1Project", "gameOfLifeC1Project.vcxproj", "{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}.Debug|x64.ActiveCfg = Debug|x64
+		{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}.Debug|x64.Build.0 = Debug|x64
+		{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}.Debug|x86.Build.0 = Debug|Win32
+		{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}.Release|x64.ActiveCfg = Release|x64
+		{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}.Release|x64.Build.0 = Release|x64
+		{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}.Release|x86.ActiveCfg = Release|Win32
+		{5EA0C7F9-E2F1-4FEF-87A7-F61B4B2C8705}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3579F56D-3B98-404B-876A-61656C1BF517}
+	EndGlobalSection
+EndGlobal
